@@ -1,2 +1,3 @@
-# ukulele
-Ukulele chords in plain text
+# Ukulele chords
+
+This repository contains various songs with their chords for the ukulele, all in plain text.
