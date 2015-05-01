@@ -1,0 +1,76 @@
+COCOON - CHUPEE
+~~~~~~~~~~~~~~~
+
+
+== CHORD G ===========    == CHORD Em ==========    == CHORD Bm ==========
+$$---+-0-+---+---+---+2   $$---+-0-+---+---+---+1   $$---+-0-+---+---+---+1
+$$---+---+-0-+---+---+3   $$---+---+-0-+---+---+2   $$---+-0-+---+---+---+1
+$$---+-0-+---+---+---+1   $$---+---+---+-0-+---+3   $$---+-0-+---+---+---+1
+$$---+---+---+---+---+    $$---+---+---+---+---+    $$---+---+---+-0-+---+3
+
+== CHORD Bm2 ==========    == CHORD C ==========    == CHORD Am ==========
+$$---+-0-+-0-+---+---+2   $$---+---+-0-+---+---+2   $$---+---+---+---+---+3
+$$---+-0-+---+---+---+1   $$---+---+---+---+---+    $$---+---+---+---+---+1
+$$---+-0-+---+---+---+1   $$---+---+---+---+---+    $$---+---+---+---+---+2
+$$---+---+---+-0-+---+3   $$---+---+---+---+---+    $$---+-0-+---+---+---+
+
+
+INTRO: G - Em - Bm - Bm2 (x2)
+
+G ----------------- Em ----
+We have gone to the country
+------- Bm ----- Bm2
+In your old car
+G -------------- Em -
+We have lost our way
+------- Bm --- Bm2
+So many times
+
+C ---- Am ---
+Hello, hello,
+G ------------- Bm -
+I take you on a trip
+C ---- Am ---
+Hello, hello,
+G ------------- Bm -
+I take you on a trip
+
+G - Em - Bm - Bm2 (x2)
+
+G ------------- Em ---
+Eating your Chupa Chup
+- Bm -------------- Bm2
+A plane is making a loop
+--- G ------------ Em - 
+The beavers are so cute
+- Bm ----------- Bm2 -
+A tree gave me a fruit
+
+C ---- Am ---
+Hello, hello,
+G ------------- Bm -
+I take you on a trip
+C ---- Am ---
+Hello, hello,
+G ------------- Bm -
+I take you on a trip
+
+G - Em - Bm - Bm2 (x2)
+
+C ---- Am ---
+Hello, hello,
+G ------------- Bm -
+I take you on a trip
+C ---- Am ---
+Hello, hello,
+G ------------- Bm -
+I take you on a trip
+
+C ---- Am ---
+Hello, hello,
+G ---- Bm ---
+Hello, hello,
+C ---- Am ---
+Hello, hello,
+G ---- Bm -----
+Hello, hello...

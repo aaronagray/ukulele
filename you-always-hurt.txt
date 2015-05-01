@@ -1,0 +1,55 @@
+ALLAN ROBERTS AND DORIS FISHER - YOU ALWAYS HURT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Verion by Ryan Gosling (http://www.youtube.com/watch?v=ANbkNhU4VSY).
+
+TUNING: F Bb D G (ish) (Chords names as standard tuning in G)
+
+
+== CHORD C ===========    == CHORD Cmaj7 =======
+$$---+---+-0-+---+---+3   $$---+-0-+---+---+---+2
+$$---+---+---+---+---+    $$---+---+---+---+---+
+$$---+---+---+---+---+    $$---+---+---+---+---+
+$$---+---+---+---+---+    $$---+---+---+---+---+
+
+== CHORD C6 ==========    == CHORD F ==========
+$$---+---+---+---+---+    $$---+---+---+---+---+
+$$---+---+---+---+---+    $$-0-+---+---+---+---+1
+$$---+---+---+---+---+    $$---+---+---+---+---+
+$$---+---+---+---+---+    $$---+-0-+---+---+---+2
+
+== CHORD G7 ==========    == CHORD F(sus2) =====
+$$---+-0-+---+---+---+3   $$---+---+---+---+---+
+$$-0-+---+---+---+---+1   $$-0-+---+---+---+---+1
+$$---+-0-+---+---+---+2   $$---+---+---+---+---+
+$$---+---+---+---+---+    $$---+---+---+---+---+
+
+== CHORD D7 ==========
+$$---+---+-0-+---+---+2
+$$---+-0-+---+---+---+1
+$$---+-0-+---+---+---+1
+$$---+-0-+---+---+---+1
+
+
+INTRO: C --- C6 - C --- C6
+
+C -------- Cmaj7 ----------- C6 --
+You always hurt the ones you love,
+--- C ------------------------- F --- Fsus2 - F --- Fsus2
+The one you shouldn't hurt at all.
+F -------- G7 -------------------
+You always take the sweetest rose
+----------------------------- C ---
+and crush it 'till the petals fall.
+
+C -------- Cmaj7 ----------- F ---
+You always break the kindest heart
+------ D7 ------------------- G7 --
+With a hasty word you can't recall.
+
+[Slow down for this part]
+
+C                Cmaj7
+  And if I broke       your heart last night,
+F        D7    G7                    C --- G7 - C
+  It's because    I love you most of all.
